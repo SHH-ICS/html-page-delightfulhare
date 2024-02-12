@@ -1,4 +1,8 @@
 body {
-    background-color: rgb(255, 165, 0);
+    background-color: #76a3f5;
     width: 1260px;
+}
+.h1 {
+    background-color: rgb(255, 165, 0);
+    color: rgb(147, 50%, 47%);
 }
