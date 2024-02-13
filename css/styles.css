@@ -1,6 +1,7 @@
 body {
     background-image: linear-gradient(right, powderblue, blue );
     width: 1260px;
+    height: 800px;
 }
 .h1 {
     background-color: rgb(255, 165, 0);
