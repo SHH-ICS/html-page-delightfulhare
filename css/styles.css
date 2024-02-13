@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(powderblue);
+    background-image: linear-gradient(powderblue, blue);
     width: 1260px;
     height: 1000px;
 }
