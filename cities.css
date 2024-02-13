@@ -2,13 +2,13 @@ body {
     background-color: green;
     width: 1260px;
 }
-.h1 {
+h1 {
     background-color: lightblue;
     color: black;
     padding: 40px;
     text-align: center;
 }
-.city {
+h2, .city {
     background-color: tomato;
     color: white;
     padding: 10px;
