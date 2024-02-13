@@ -2,8 +2,8 @@ body {
     background-image: linear-gradient(#9dc6d7, #79a0c8);
 }
 h1 {
-    background-color: rgb(255, 165, 0);
-    color: hsl(147, 50%, 47%);
+    background-color: #f8fcfb;
+    color: #58bb9a;
     padding: 40px;
     text-align: center;
 }
