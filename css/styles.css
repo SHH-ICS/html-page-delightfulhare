@@ -9,7 +9,7 @@ h1 {
     padding: 40px;
     text-align: center;
 }
-.list {
+.list li a{
     display: inline-block;
     color: #0e1b17;
     text-decoration: none;
@@ -20,7 +20,7 @@ h1 {
     letter-spacing: 2px;
     transition: all 0.4s;
 }
-.list:hover {
+.list li a:hover {
     background-color: white;
     color: #0e1b17;
 }
