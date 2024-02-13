@@ -1,0 +1,15 @@
+body {
+    background-color: green;
+    width: 1260px;
+}
+h1 {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+h2, .city {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
