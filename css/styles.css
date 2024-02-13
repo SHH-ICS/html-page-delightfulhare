@@ -10,7 +10,7 @@ h1 {
     text-align: center;
 }
 .list {
-    display: block;
+    display: inline-block;
     color: #0e1b17;
     text-decoration: none;
     text-transform: uppercase;
